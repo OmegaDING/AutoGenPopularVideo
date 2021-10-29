@@ -1,0 +1,3 @@
+file 'D:\python\AutoGenPopularVideo\bgm\cutted\head.mp3'
+file 'D:\python\AutoGenPopularVideo\bgm\cutted\content.mp3'
+file 'D:\python\AutoGenPopularVideo\bgm\cutted\end.mp3'
