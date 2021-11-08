@@ -56,7 +56,7 @@ def pic():
         time.sleep(2)
         print("获取热词图片失败正在重试")
         pic()
-#pic()
+pic()
 
 
 
@@ -64,12 +64,12 @@ def pic():
 #根据热词获取bilibili视频
 def video():
     try:
-        crawl_bilibili_video.crawl_bilibili(keyword=hotword,num=5)
+        crawl_bilibili_video.crawl_bilibili(keyword=hotword,num=5) # num 表示要抓取的数量
     except:
         print("爬取视频失败正在重试")
         time.sleep(2)
         video()
-#video()
+video()
 
 #根据热词获取正文
 def text():
@@ -83,10 +83,10 @@ def text():
         print("生成正文失败，正在重试")
         time.sleep(2)
         text()
-#text()
+text()
 
-# print("check text")
-# input()
+print("check text")  #检查text是否合格
+input() #输入任意值进行下一步
 
 
 #将开头 正文 结尾合并
@@ -112,7 +112,7 @@ def srt():
         time.sleep(2)
         print("生成字幕失败，正在重试")
         srt()
-#srt()
+srt()
 
 #合成视频
 convVideo.conv_video()

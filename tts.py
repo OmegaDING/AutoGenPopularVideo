@@ -19,8 +19,8 @@ else:
     from urllib.request import URLError
     from urllib import urlencode
 
-API_KEY = 'MsqHHERNBWqItP2Q58w0NG5A'
-SECRET_KEY = 'mnVBOq614832s5dt7tYmG5U2KVCuXNsD'
+API_KEY = 'A'
+SECRET_KEY = 'm'
 
 
 # 发音人选择, 基础音库：0为度小美，1为度小宇，3为度逍遥，4为度丫丫，
