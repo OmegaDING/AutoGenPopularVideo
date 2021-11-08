@@ -1,4 +1,5 @@
-﻿### AutoGenPopularVideo
+﻿=======
+### AutoGenPopularVideo
 Automatically generate popular videos
 
 
@@ -86,18 +87,9 @@ read文件夹中的read word可以被编辑为head.txt和end.txt
 
    
 
-   ## 当前依然有很多问题：
+## 当前依然有很多问题：
 
    ffmpeg在连接视频时经常出现各种问题
    在随机截取视频片段时可能截取到不能用的片段
    抓取百度词条时可能没有相应合适的词条，需要手动修改
-=======
-# AutoGenPopularVideo
-Automatically generate popular videos 自动生成热门视频
-
-you need to set up the chromedriver before you get start. 
-
-在使用之前你需要安装chrome-driver，并且安装包
-
-And  install package 
 
