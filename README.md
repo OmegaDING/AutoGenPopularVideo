@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# AutoGenPopularVideo
+﻿### AutoGenPopularVideo
 Automatically generate popular videos
 
 
@@ -102,4 +101,3 @@ you need to set up the chromedriver before you get start.
 
 And  install package 
 
->>>>>>> ac3048954b64d6432d4e04a6ab66879911c8c555
