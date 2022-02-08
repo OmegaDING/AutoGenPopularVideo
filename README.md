@@ -53,7 +53,7 @@ Crawl Baidu entry may not have the corresponding appropriate entry, need to manu
 
 ## 前言：
 博客地址：http://www.dkyblog.top/index.php/archives/146 （还没写完，会慢慢补充，欢迎各位提出issue）
-​		在经过长期的bilibili以及YouTube观看之后发现有很多视频的程度完全可以让计算机自动生成。有感而发花了一些时间写了一个自动制作视频的项目。它可以自动抓取当下的热点，并且搜集相应的图片、词条、文章、视频等资料，并将它们整合成一篇文稿让计算机自动朗读，并且将收集到的视频图像等资料加工合成视频。视频效果可以参阅我的bilibili：
+​		在经过长期的bilibili以及YouTube观看之后发现很多视频完全可以让计算机自动生成。有感而发花了一些时间写了一个自动制作视频的项目。它可以自动抓取当下的热点，并且搜集相应的图片、词条、文章、视频等资料，并将它们整合成一篇文稿让计算机自动朗读，并且将收集到的视频图像等资料加工合成视频。视频效果可以参阅我的bilibili：
 
 
 
